@@ -1,0 +1,5 @@
+CCNP NETACAD LABS is a repository for CCNP (Cisco Certified Network Professional) NETACAD (Networking Academy) labs. This repository contains various lab exercises and resources to help you prepare for the CCNP certification exams.
+
+Feel free to explore the repository and use the provided materials to enhance your networking skills and knowledge.
+
+Happy learning!

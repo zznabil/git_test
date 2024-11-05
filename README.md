@@ -1,3 +1,3 @@
-# git_test
+# CCNP NETACAD LABS
 
-Hello Odin! dehel is this?
+Welcome to the CCNP NETACAD LABS repository!
